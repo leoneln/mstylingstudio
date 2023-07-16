@@ -1,2 +1,2 @@
 # mstylingstudio
-A one page scrolling website for a hair styling studio
+M. Styling Studio is Hair Styling business located in Murray Utah.
