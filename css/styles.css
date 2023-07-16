@@ -10959,10 +10959,10 @@ header.masthead .masthead-subheading {
   margin-bottom: 25px;
 }
 header.masthead .masthead-heading {
-  font-size: 3.25rem;
+  font-size: 2rem;
   font-weight: 700;
-  line-height: 3.25rem;
-  margin-bottom: 2rem;
+  line-height: 2.25rem;
+  margin-bottom: 1.5rem;
   
 }
 
@@ -10979,10 +10979,9 @@ header.masthead .masthead-heading {
     
   }
   header.masthead .masthead-heading {
-    font-size: 4.5rem;
+    font-size: 2.5rem;
     font-weight: 700;
-    line-height: 4.5rem;
-    margin-bottom: 4rem;
+    line-height: 2.5rem;
   }
 }
 #portfolio .portfolio-item {
