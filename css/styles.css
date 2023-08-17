@@ -10945,8 +10945,8 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #DAAC50;
-  background-image: url("../assets/img/mstyling_hair_studio.png");
+  color: #f0f0f0 ;
+  background-image: url("../assets/img/oladimeji-odunsi.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10963,7 +10963,11 @@ header.masthead .masthead-heading {
   font-weight: 700;
   line-height: 2.25rem;
   margin-bottom: 1.5rem;
-  
+}
+header.masthead .container {
+  background-color: black;
+  opacity: .7;
+  border-radius: 25px;
 }
 
 @media (min-width: 768px) {
